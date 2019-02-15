@@ -1,0 +1,8 @@
+F:\Năm 3\WinNC\#seflproduct\RandomNumber\RandomNumber\bin\Debug\RandomNumber.exe.config
+F:\Năm 3\WinNC\#seflproduct\RandomNumber\RandomNumber\bin\Debug\RandomNumber.exe
+F:\Năm 3\WinNC\#seflproduct\RandomNumber\RandomNumber\bin\Debug\RandomNumber.pdb
+F:\Năm 3\WinNC\#seflproduct\RandomNumber\RandomNumber\obj\Debug\RandomNumber.Form1.resources
+F:\Năm 3\WinNC\#seflproduct\RandomNumber\RandomNumber\obj\Debug\RandomNumber.Properties.Resources.resources
+F:\Năm 3\WinNC\#seflproduct\RandomNumber\RandomNumber\obj\Debug\RandomNumber.csproj.GenerateResource.Cache
+F:\Năm 3\WinNC\#seflproduct\RandomNumber\RandomNumber\obj\Debug\RandomNumber.exe
+F:\Năm 3\WinNC\#seflproduct\RandomNumber\RandomNumber\obj\Debug\RandomNumber.pdb
